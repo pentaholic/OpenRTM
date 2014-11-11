@@ -1,0 +1,29 @@
+May 26 09:41:25.596 INFO: manager: 1.1.0
+May 26 09:41:25.596 INFO: manager: Copyright (C) 2003-2010
+May 26 09:41:25.596 INFO: manager:   Noriaki Ando
+May 26 09:41:25.596 INFO: manager:   Intelligent Systems Research Institute, AIST
+May 26 09:41:25.596 INFO: manager: Manager starting.
+May 26 09:41:25.596 INFO: manager: Starting local logging.
+May 26 09:41:25.600 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+May 26 09:41:25.600 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+May 26 09:41:25.601 INFO: ManagerServant: Master manager not found
+May 26 09:41:29.534 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+May 26 09:41:29.535 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+May 26 09:42:24.087 WARNING: user_head: Dead connection: e7ee6b19-365d-4fc1-acb3-fe55e28891f5
+May 26 09:42:24.087 WARNING: user_head: Exception caught: minor code(1096024066).
+May 26 09:42:24.088 WARNING: user_neck: Dead connection: 41d12969-d657-461a-b7eb-6f080c507d70
+May 26 09:42:24.088 WARNING: user_neck: Exception caught: minor code(1096024066).
+May 26 09:42:24.088 WARNING: user_left_shoulder: Dead connection: de769dee-5b88-46d9-be54-49f379b73baa
+May 26 09:42:24.088 WARNING: user_left_shoulder: Exception caught: minor code(1096024066).
+May 26 09:42:24.088 WARNING: user_left_elbow: Dead connection: 61d5e95d-b5e8-44ea-b1b5-88dae513116d
+May 26 09:42:24.088 WARNING: user_left_elbow: Exception caught: minor code(1096024066).
+May 26 09:42:24.088 WARNING: user_left_hand: Dead connection: ad932791-2777-4333-a40d-8e70793b2c49
+May 26 09:42:24.089 WARNING: user_left_hand: Exception caught: minor code(1096024066).
+May 26 09:42:24.089 WARNING: user_right_shoulder: Dead connection: 92ec1b33-d57b-4829-8b99-fc456ab3cffd
+May 26 09:42:24.089 WARNING: user_right_shoulder: Exception caught: minor code(1096024066).
+May 26 09:42:24.089 WARNING: user_right_elbow: Dead connection: 449098e5-5cfc-4999-a093-8b2d2055b9be
+May 26 09:42:24.089 WARNING: user_right_elbow: Exception caught: minor code(1096024066).
+May 26 09:42:24.089 WARNING: user_right_hand: Dead connection: 80e1e7c1-bcdb-4068-9107-e2860332a3bd
+May 26 09:42:24.089 WARNING: user_right_hand: Exception caught: minor code(1096024066).
+May 26 09:42:24.090 WARNING: user_torso: Dead connection: 1e4b7edd-3016-4a67-bf7d-bd309d940fe7
+May 26 09:42:24.090 WARNING: user_torso: Exception caught: minor code(1096024066).

@@ -1,0 +1,9 @@
+May 26 04:59:54.675 INFO: manager: 1.1.0
+May 26 04:59:54.675 INFO: manager: Copyright (C) 2003-2010
+May 26 04:59:54.675 INFO: manager:   Noriaki Ando
+May 26 04:59:54.675 INFO: manager:   Intelligent Systems Research Institute, AIST
+May 26 04:59:54.675 INFO: manager: Manager starting.
+May 26 04:59:54.675 INFO: manager: Starting local logging.
+May 26 04:59:54.680 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+May 26 04:59:54.680 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+May 26 04:59:54.682 INFO: ManagerServant: Master manager not found

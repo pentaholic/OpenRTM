@@ -1,0 +1,54 @@
+# flag_system CMake config file
+#
+# This file sets the following variables:
+# flag_system_FOUND - Always TRUE.
+# flag_system_INCLUDE_DIRS - Directories containing the flag_system include files.
+# flag_system_IDL_DIRS - Directories containing the flag_system IDL files.
+# flag_system_LIBRARIES - Libraries needed to use flag_system.
+# flag_system_DEFINITIONS - Compiler flags for flag_system.
+# flag_system_VERSION - The version of flag_system found.
+# flag_system_VERSION_MAJOR - The major version of flag_system found.
+# flag_system_VERSION_MINOR - The minor version of flag_system found.
+# flag_system_VERSION_REVISION - The revision version of flag_system found.
+# flag_system_VERSION_CANDIDATE - The candidate version of flag_system found.
+
+message(STATUS "Found flag_system-@PROJECT_VERSION@")
+set(flag_system_FOUND TRUE)
+
+find_package(<dependency> REQUIRED)
+
+#set(flag_system_INCLUDE_DIRS
+#    "@CMAKE_INSTALL_PREFIX@/include/@PROJECT_NAME_LOWER@-@PROJECT_VERSION_MAJOR@"
+#    ${<dependency>_INCLUDE_DIRS}
+#    )
+#
+#set(flag_system_IDL_DIRS
+#    "@CMAKE_INSTALL_PREFIX@/include/@PROJECT_NAME_LOWER@-@PROJECT_VERSION_MAJOR@/idl")
+set(flag_system_INCLUDE_DIRS
+    "@CMAKE_INSTALL_PREFIX@/include/@CPACK_PACKAGE_FILE_NAME@"
+    ${<dependency>_INCLUDE_DIRS}
+    )
+set(flag_system_IDL_DIRS
+    "@CMAKE_INSTALL_PREFIX@/include/@CPACK_PACKAGE_FILE_NAME@/idl")
+
+
+if(WIN32)
+    set(flag_system_LIBRARIES
+        "@CMAKE_INSTALL_PREFIX@/@LIB_INSTALL_DIR@/@CMAKE_SHARED_LIBRARY_PREFIX@@PROJECT_NAME_LOWER@@CMAKE_STATIC_LIBRARY_SUFFIX@"
+        ${<dependency>_LIBRARIES}
+        )
+else(WIN32)
+    set(flag_system_LIBRARIES
+        "@CMAKE_INSTALL_PREFIX@/@LIB_INSTALL_DIR@/@CMAKE_SHARED_LIBRARY_PREFIX@@PROJECT_NAME_LOWER@@CMAKE_SHARED_LIBRARY_SUFFIX@"
+        ${<dependency>_LIBRARIES}
+        )
+endif(WIN32)
+
+set(flag_system_DEFINITIONS ${<dependency>_DEFINITIONS})
+
+set(flag_system_VERSION @PROJECT_VERSION@)
+set(flag_system_VERSION_MAJOR @PROJECT_VERSION_MAJOR@)
+set(flag_system_VERSION_MINOR @PROJECT_VERSION_MINOR@)
+set(flag_system_VERSION_REVISION @PROJECT_VERSION_REVISION@)
+set(flag_system_VERSION_CANDIDATE @PROJECT_VERSION_CANDIDATE@)
+

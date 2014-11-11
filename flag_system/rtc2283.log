@@ -1,0 +1,58 @@
+May 26 05:47:29.248 INFO: manager: 1.1.0
+May 26 05:47:29.248 INFO: manager: Copyright (C) 2003-2010
+May 26 05:47:29.248 INFO: manager:   Noriaki Ando
+May 26 05:47:29.248 INFO: manager:   Intelligent Systems Research Institute, AIST
+May 26 05:47:29.248 INFO: manager: Manager starting.
+May 26 05:47:29.248 INFO: manager: Starting local logging.
+May 26 05:47:29.253 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+May 26 05:47:29.254 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+May 26 05:47:29.256 INFO: ManagerServant: Master manager not found
+May 26 05:47:50.079 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+May 26 05:47:50.081 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+May 26 05:49:25.030 WARNING: user_head: Dead connection: c2205d18-aca6-427f-beaf-f6f0b6845988
+May 26 05:49:25.030 WARNING: user_head: Exception caught: minor code(1096024066).
+May 26 05:49:25.031 WARNING: user_neck: Dead connection: 9c3dfeb1-f4e9-4808-8516-59a602017b0f
+May 26 05:49:25.031 WARNING: user_neck: Exception caught: minor code(1096024066).
+May 26 05:49:25.031 WARNING: user_left_shoulder: Dead connection: 2c4f105a-bde7-486a-b229-86c67e495ee5
+May 26 05:49:25.031 WARNING: user_left_shoulder: Exception caught: minor code(1096024066).
+May 26 05:49:25.032 WARNING: user_left_elbow: Dead connection: bc93bdbc-5a58-49b3-b2e4-c4705cf6dd41
+May 26 05:49:25.032 WARNING: user_left_elbow: Exception caught: minor code(1096024066).
+May 26 05:49:25.032 WARNING: user_left_hand: Dead connection: c5ac5cc3-a79e-47cc-99a0-ae99ac39e830
+May 26 05:49:25.032 WARNING: user_left_hand: Exception caught: minor code(1096024066).
+May 26 05:49:25.033 WARNING: user_right_shoulder: Dead connection: 90417ccb-5745-4c2f-9d51-b1441a88d51b
+May 26 05:49:25.033 WARNING: user_right_shoulder: Exception caught: minor code(1096024066).
+May 26 05:49:25.033 WARNING: user_right_elbow: Dead connection: f777e68b-f2d6-4e52-8b05-7ebc1d7afa89
+May 26 05:49:25.033 WARNING: user_right_elbow: Exception caught: minor code(1096024066).
+May 26 05:49:25.033 WARNING: user_right_hand: Dead connection: 2c0928b9-8520-4299-a87a-ea3c11b730e7
+May 26 05:49:25.034 WARNING: user_right_hand: Exception caught: minor code(1096024066).
+May 26 05:49:25.034 WARNING: user_torso: Dead connection: a6eadf52-8eaf-46c1-b5ea-cdfa65ce899e
+May 26 05:49:25.034 WARNING: user_torso: Exception caught: minor code(1096024066).
+May 27 07:12:51.360 INFO: manager: 1.1.0
+May 27 07:12:51.361 INFO: manager: Copyright (C) 2003-2010
+May 27 07:12:51.361 INFO: manager:   Noriaki Ando
+May 27 07:12:51.361 INFO: manager:   Intelligent Systems Research Institute, AIST
+May 27 07:12:51.361 INFO: manager: Manager starting.
+May 27 07:12:51.361 INFO: manager: Starting local logging.
+May 27 07:12:51.367 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+May 27 07:12:51.367 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+May 27 07:12:51.368 INFO: ManagerServant: Master manager not found
+May 27 07:12:54.474 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+May 27 07:12:54.477 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+May 27 07:13:13.837 WARNING: user_head: Dead connection: ed32d249-1dd7-460c-894d-05e1b34f904f
+May 27 07:13:13.838 WARNING: user_head: Exception caught: minor code(1096024066).
+May 27 07:13:13.838 WARNING: user_neck: Dead connection: c8963fef-717b-4b65-8aee-68e25a92bc70
+May 27 07:13:13.838 WARNING: user_neck: Exception caught: minor code(1096024066).
+May 27 07:13:13.838 WARNING: user_left_shoulder: Dead connection: 104a2b30-4280-4107-83e6-15afd7a06df8
+May 27 07:13:13.838 WARNING: user_left_shoulder: Exception caught: minor code(1096024066).
+May 27 07:13:13.839 WARNING: user_left_elbow: Dead connection: 29ed7071-ea4b-4b08-bd95-a47e0898d4aa
+May 27 07:13:13.839 WARNING: user_left_elbow: Exception caught: minor code(1096024066).
+May 27 07:13:13.839 WARNING: user_left_hand: Dead connection: 96fd9bdb-7363-4f2c-a259-d81400000000
+May 27 07:13:13.839 WARNING: user_left_hand: Exception caught: minor code(1096024066).
+May 27 07:13:13.839 WARNING: user_right_shoulder: Dead connection: a4000000-0000-0000-0000-000000000000
+May 27 07:13:13.839 WARNING: user_right_shoulder: Exception caught: minor code(1096024066).
+May 27 07:13:13.839 WARNING: user_right_elbow: Dead connection: 246b7469-d667-4ebf-804a-66b31ce9e361
+May 27 07:13:13.839 WARNING: user_right_elbow: Exception caught: minor code(1096024066).
+May 27 07:13:13.840 WARNING: user_right_hand: Dead connection: d18658fa-c92c-4f2d-9b69-a1229e8f70ca
+May 27 07:13:13.840 WARNING: user_right_hand: Exception caught: minor code(1096024066).
+May 27 07:13:13.840 WARNING: user_torso: Dead connection: d2e6481f-7dba-4743-8afa-475e9e90bfb7
+May 27 07:13:13.840 WARNING: user_torso: Exception caught: minor code(1096024066).

@@ -1,0 +1,47 @@
+May 28 08:40:24.219 INFO: manager: 1.1.0
+May 28 08:40:24.220 INFO: manager: Copyright (C) 2003-2010
+May 28 08:40:24.220 INFO: manager:   Noriaki Ando
+May 28 08:40:24.220 INFO: manager:   Intelligent Systems Research Institute, AIST
+May 28 08:40:24.220 INFO: manager: Manager starting.
+May 28 08:40:24.220 INFO: manager: Starting local logging.
+May 28 08:40:24.225 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+May 28 08:40:24.225 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+May 28 08:40:24.226 INFO: ManagerServant: Master manager not found
+May 28 08:40:28.908 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+May 28 08:40:28.911 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+May 28 08:41:18.993 WARNING: user_head: Dead connection: cfa1b3bc-83a4-4045-b3e5-4de25204deb7
+May 28 08:41:18.993 WARNING: user_head: Exception caught: minor code(1096024066).
+May 28 08:41:18.993 WARNING: user_neck: Dead connection: b7515ec4-1ccb-44fc-803c-bc76fe2e561f
+May 28 08:41:18.993 WARNING: user_neck: Exception caught: minor code(1096024066).
+May 28 08:41:18.993 WARNING: user_left_shoulder: Dead connection: 4920897e-22d7-4d35-8c49-cdfc80f37491
+May 28 08:41:18.993 WARNING: user_left_shoulder: Exception caught: minor code(1096024066).
+May 28 08:41:18.993 WARNING: user_left_elbow: Dead connection: d1657fb3-c5cb-4d0a-914d-3799953969f2
+May 28 08:41:18.993 WARNING: user_left_elbow: Exception caught: minor code(1096024066).
+May 28 08:41:18.993 WARNING: user_left_hand: Dead connection: 6b416109-2dd0-4604-8546-50a0404c6a90
+May 28 08:41:18.993 WARNING: user_left_hand: Exception caught: minor code(1096024066).
+May 28 08:41:18.993 WARNING: user_right_shoulder: Dead connection: a545df06-7d6a-485b-8ec2-a64840adc910
+May 28 08:41:18.993 WARNING: user_right_shoulder: Exception caught: minor code(1096024066).
+May 28 08:41:18.993 WARNING: user_right_elbow: Dead connection: 141273de-468b-41a9-b243-95db27c8f59e
+May 28 08:41:18.994 WARNING: user_right_elbow: Exception caught: minor code(1096024066).
+May 28 08:41:18.994 WARNING: user_right_hand: Dead connection: 1d2a14c2-8181-4f1a-b4fc-83ab5870324a
+May 28 08:41:18.994 WARNING: user_right_hand: Exception caught: minor code(1096024066).
+May 28 08:41:18.994 WARNING: user_torso: Dead connection: c7524e7d-4fd7-4c32-a1b7-dc1fc561a5ac
+May 28 08:41:18.994 WARNING: user_torso: Exception caught: minor code(1096024066).
+May 28 08:42:45.999 WARNING: user_head: Dead connection: f4b359d9-ca32-45a3-b91c-fbbff0f30457
+May 28 08:42:45.999 WARNING: user_head: Exception caught: minor code(1096024066).
+May 28 08:42:45.999 WARNING: user_neck: Dead connection: c047b413-4ef1-4468-93d8-daf20b997d04
+May 28 08:42:45.999 WARNING: user_neck: Exception caught: minor code(1096024066).
+May 28 08:42:45.999 WARNING: user_left_shoulder: Dead connection: 0291e327-2805-43b4-a7bf-5aa4d456e63b
+May 28 08:42:45.999 WARNING: user_left_shoulder: Exception caught: minor code(1096024066).
+May 28 08:42:45.999 WARNING: user_left_elbow: Dead connection: e445bd44-801b-4667-8575-7e3e2f7ebf1e
+May 28 08:42:45.999 WARNING: user_left_elbow: Exception caught: minor code(1096024066).
+May 28 08:42:45.999 WARNING: user_left_hand: Dead connection: 7cd3a9af-e28f-4b21-9d02-4b0c22eb2848
+May 28 08:42:45.999 WARNING: user_left_hand: Exception caught: minor code(1096024066).
+May 28 08:42:46.000 WARNING: user_right_shoulder: Dead connection: 2c2d0c2f-666b-4614-80c4-66197a3484c9
+May 28 08:42:46.000 WARNING: user_right_shoulder: Exception caught: minor code(1096024066).
+May 28 08:42:46.000 WARNING: user_right_elbow: Dead connection: 8b381456-cfd5-4afd-8e40-a41c18df618e
+May 28 08:42:46.000 WARNING: user_right_elbow: Exception caught: minor code(1096024066).
+May 28 08:42:46.000 WARNING: user_right_hand: Dead connection: 23f39249-754e-4466-baf1-6bae1c5f5d8f
+May 28 08:42:46.000 WARNING: user_right_hand: Exception caught: minor code(1096024066).
+May 28 08:42:46.000 WARNING: user_torso: Dead connection: e6c62b4d-28f2-4751-a687-ef672f914065
+May 28 08:42:46.000 WARNING: user_torso: Exception caught: minor code(1096024066).

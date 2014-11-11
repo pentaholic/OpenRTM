@@ -1,0 +1,190 @@
+May 29 07:32:23.778 INFO: manager: 1.1.0
+May 29 07:32:23.778 INFO: manager: Copyright (C) 2003-2010
+May 29 07:32:23.778 INFO: manager:   Noriaki Ando
+May 29 07:32:23.778 INFO: manager:   Intelligent Systems Research Institute, AIST
+May 29 07:32:23.778 INFO: manager: Manager starting.
+May 29 07:32:23.778 INFO: manager: Starting local logging.
+May 29 07:32:23.783 WARNING: NamingOnCorba: No endpoint for the CORBA naming service (localhost) was found.
+May 29 07:32:23.783 INFO: NamingManager: NameServer connection succeeded: corba/localhost
+May 29 07:32:23.784 INFO: ManagerServant: Master manager not found
+May 29 07:32:25.926 WARNING: SdoServiceAdmin: No available SDO service in the factory: 
+May 29 07:32:25.928 WARNING: SdoServiceAdmin: No available SDO service in the factory: IDL:OpenRTM/ComponentObserver:1.0
+May 29 07:37:27.101 WARNING: user_head: buffer empty
+May 29 07:37:27.601 WARNING: user_head: buffer empty
+May 29 07:37:28.102 WARNING: user_head: buffer empty
+May 29 07:37:28.602 WARNING: user_head: buffer empty
+May 29 07:37:28.602 WARNING: user_neck: buffer empty
+May 29 07:37:29.102 WARNING: user_head: buffer empty
+May 29 07:37:29.102 WARNING: user_neck: buffer empty
+May 29 07:37:29.603 WARNING: user_head: buffer empty
+May 29 07:37:29.603 WARNING: user_neck: buffer empty
+May 29 07:37:29.603 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:30.103 WARNING: user_head: buffer empty
+May 29 07:37:30.103 WARNING: user_neck: buffer empty
+May 29 07:37:30.103 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:30.604 WARNING: user_head: buffer empty
+May 29 07:37:30.604 WARNING: user_neck: buffer empty
+May 29 07:37:30.604 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:31.105 WARNING: user_head: buffer empty
+May 29 07:37:31.105 WARNING: user_neck: buffer empty
+May 29 07:37:31.105 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:31.105 WARNING: user_left_elbow: buffer empty
+May 29 07:37:31.605 WARNING: user_head: buffer empty
+May 29 07:37:31.605 WARNING: user_neck: buffer empty
+May 29 07:37:31.605 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:31.605 WARNING: user_left_elbow: buffer empty
+May 29 07:37:32.106 WARNING: user_head: buffer empty
+May 29 07:37:32.106 WARNING: user_neck: buffer empty
+May 29 07:37:32.106 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:32.106 WARNING: user_left_elbow: buffer empty
+May 29 07:37:32.106 WARNING: user_left_hand: buffer empty
+May 29 07:37:32.606 WARNING: user_head: buffer empty
+May 29 07:37:32.606 WARNING: user_neck: buffer empty
+May 29 07:37:32.606 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:32.606 WARNING: user_left_elbow: buffer empty
+May 29 07:37:32.606 WARNING: user_left_hand: buffer empty
+May 29 07:37:33.107 WARNING: user_head: buffer empty
+May 29 07:37:33.107 WARNING: user_neck: buffer empty
+May 29 07:37:33.107 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:33.107 WARNING: user_left_elbow: buffer empty
+May 29 07:37:33.107 WARNING: user_left_hand: buffer empty
+May 29 07:37:33.607 WARNING: user_head: buffer empty
+May 29 07:37:33.607 WARNING: user_neck: buffer empty
+May 29 07:37:33.607 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:33.607 WARNING: user_left_elbow: buffer empty
+May 29 07:37:33.607 WARNING: user_left_hand: buffer empty
+May 29 07:37:34.108 WARNING: user_head: buffer empty
+May 29 07:37:34.108 WARNING: user_neck: buffer empty
+May 29 07:37:34.108 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:34.108 WARNING: user_left_elbow: buffer empty
+May 29 07:37:34.108 WARNING: user_left_hand: buffer empty
+May 29 07:37:34.108 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:34.608 WARNING: user_head: buffer empty
+May 29 07:37:34.608 WARNING: user_neck: buffer empty
+May 29 07:37:34.608 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:34.608 WARNING: user_left_elbow: buffer empty
+May 29 07:37:34.608 WARNING: user_left_hand: buffer empty
+May 29 07:37:34.608 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:35.109 WARNING: user_head: buffer empty
+May 29 07:37:35.109 WARNING: user_neck: buffer empty
+May 29 07:37:35.109 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:35.109 WARNING: user_left_elbow: buffer empty
+May 29 07:37:35.109 WARNING: user_left_hand: buffer empty
+May 29 07:37:35.109 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:35.609 WARNING: user_head: buffer empty
+May 29 07:37:35.609 WARNING: user_neck: buffer empty
+May 29 07:37:35.609 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:35.609 WARNING: user_left_elbow: buffer empty
+May 29 07:37:35.609 WARNING: user_left_hand: buffer empty
+May 29 07:37:35.609 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:36.110 WARNING: user_head: buffer empty
+May 29 07:37:36.110 WARNING: user_neck: buffer empty
+May 29 07:37:36.110 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:36.110 WARNING: user_left_elbow: buffer empty
+May 29 07:37:36.110 WARNING: user_left_hand: buffer empty
+May 29 07:37:36.110 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:36.110 WARNING: user_right_elbow: buffer empty
+May 29 07:37:36.610 WARNING: user_head: buffer empty
+May 29 07:37:36.610 WARNING: user_neck: buffer empty
+May 29 07:37:36.610 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:36.610 WARNING: user_left_elbow: buffer empty
+May 29 07:37:36.610 WARNING: user_left_hand: buffer empty
+May 29 07:37:36.610 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:36.610 WARNING: user_right_elbow: buffer empty
+May 29 07:37:37.111 WARNING: user_head: buffer empty
+May 29 07:37:37.111 WARNING: user_neck: buffer empty
+May 29 07:37:37.111 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:37.111 WARNING: user_left_elbow: buffer empty
+May 29 07:37:37.111 WARNING: user_left_hand: buffer empty
+May 29 07:37:37.111 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:37.111 WARNING: user_right_elbow: buffer empty
+May 29 07:37:37.611 WARNING: user_head: buffer empty
+May 29 07:37:37.611 WARNING: user_neck: buffer empty
+May 29 07:37:37.611 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:37.611 WARNING: user_left_elbow: buffer empty
+May 29 07:37:37.611 WARNING: user_left_hand: buffer empty
+May 29 07:37:37.611 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:37.611 WARNING: user_right_elbow: buffer empty
+May 29 07:37:37.611 WARNING: user_right_hand: buffer empty
+May 29 07:37:38.112 WARNING: user_head: buffer empty
+May 29 07:37:38.112 WARNING: user_neck: buffer empty
+May 29 07:37:38.112 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:38.112 WARNING: user_left_elbow: buffer empty
+May 29 07:37:38.112 WARNING: user_left_hand: buffer empty
+May 29 07:37:38.112 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:38.112 WARNING: user_right_elbow: buffer empty
+May 29 07:37:38.112 WARNING: user_right_hand: buffer empty
+May 29 07:37:38.612 WARNING: user_head: buffer empty
+May 29 07:37:38.612 WARNING: user_neck: buffer empty
+May 29 07:37:38.612 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:38.612 WARNING: user_left_elbow: buffer empty
+May 29 07:37:38.612 WARNING: user_left_hand: buffer empty
+May 29 07:37:38.612 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:38.612 WARNING: user_right_elbow: buffer empty
+May 29 07:37:38.612 WARNING: user_right_hand: buffer empty
+May 29 07:37:39.113 WARNING: user_head: buffer empty
+May 29 07:37:39.113 WARNING: user_neck: buffer empty
+May 29 07:37:39.113 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:39.113 WARNING: user_left_elbow: buffer empty
+May 29 07:37:39.113 WARNING: user_left_hand: buffer empty
+May 29 07:37:39.113 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:39.113 WARNING: user_right_elbow: buffer empty
+May 29 07:37:39.113 WARNING: user_right_hand: buffer empty
+May 29 07:37:39.613 WARNING: user_head: buffer empty
+May 29 07:37:39.613 WARNING: user_neck: buffer empty
+May 29 07:37:39.613 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:39.613 WARNING: user_left_elbow: buffer empty
+May 29 07:37:39.613 WARNING: user_left_hand: buffer empty
+May 29 07:37:39.613 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:39.613 WARNING: user_right_elbow: buffer empty
+May 29 07:37:39.613 WARNING: user_right_hand: buffer empty
+May 29 07:37:40.114 WARNING: user_head: buffer empty
+May 29 07:37:40.114 WARNING: user_neck: buffer empty
+May 29 07:37:40.114 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:40.114 WARNING: user_left_elbow: buffer empty
+May 29 07:37:40.114 WARNING: user_left_hand: buffer empty
+May 29 07:37:40.114 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:40.114 WARNING: user_right_elbow: buffer empty
+May 29 07:37:40.114 WARNING: user_right_hand: buffer empty
+May 29 07:37:40.614 WARNING: user_head: buffer empty
+May 29 07:37:40.614 WARNING: user_neck: buffer empty
+May 29 07:37:40.614 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:40.614 WARNING: user_left_elbow: buffer empty
+May 29 07:37:40.614 WARNING: user_left_hand: buffer empty
+May 29 07:37:40.614 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:40.614 WARNING: user_right_elbow: buffer empty
+May 29 07:37:40.614 WARNING: user_right_hand: buffer empty
+May 29 07:37:41.114 WARNING: user_head: buffer empty
+May 29 07:37:41.114 WARNING: user_neck: buffer empty
+May 29 07:37:41.114 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:41.114 WARNING: user_left_elbow: buffer empty
+May 29 07:37:41.114 WARNING: user_left_hand: buffer empty
+May 29 07:37:41.114 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:41.114 WARNING: user_right_elbow: buffer empty
+May 29 07:37:41.114 WARNING: user_right_hand: buffer empty
+May 29 07:37:41.615 WARNING: user_head: buffer empty
+May 29 07:37:41.615 WARNING: user_neck: buffer empty
+May 29 07:37:41.615 WARNING: user_left_shoulder: buffer empty
+May 29 07:37:41.615 WARNING: user_left_elbow: buffer empty
+May 29 07:37:41.615 WARNING: user_left_hand: buffer empty
+May 29 07:37:41.615 WARNING: user_right_shoulder: buffer empty
+May 29 07:37:41.615 WARNING: user_right_elbow: buffer empty
+May 29 07:37:41.615 WARNING: user_right_hand: buffer empty
+May 29 07:37:43.271 WARNING: user_head: Dead connection: 3d197fc4-bb34-4065-947d-816c2962a012
+May 29 07:37:43.271 WARNING: user_head: Exception caught: minor code(1096024066).
+May 29 07:37:43.271 WARNING: user_neck: Dead connection: e128dc93-75e9-4aba-b334-1a7fc434643e
+May 29 07:37:43.271 WARNING: user_neck: Exception caught: minor code(1096024066).
+May 29 07:37:43.271 WARNING: user_left_shoulder: Dead connection: 438854ae-bc1f-408e-9516-d4e813738500
+May 29 07:37:43.271 WARNING: user_left_shoulder: Exception caught: minor code(1096024066).
+May 29 07:37:43.271 WARNING: user_left_elbow: Dead connection: cedc2ea6-2322-4ca2-8649-fa2ca886dac6
+May 29 07:37:43.271 WARNING: user_left_elbow: Exception caught: minor code(1096024066).
+May 29 07:37:43.271 WARNING: user_left_hand: Dead connection: 6c46d1d9-6cbd-461e-8951-bc256e30f0bd
+May 29 07:37:43.272 WARNING: user_left_hand: Exception caught: minor code(1096024066).
+May 29 07:37:43.272 WARNING: user_right_shoulder: Dead connection: e68e690b-6ad4-4e27-96a2-baa7d2d72b0e
+May 29 07:37:43.272 WARNING: user_right_shoulder: Exception caught: minor code(1096024066).
+May 29 07:37:43.272 WARNING: user_right_elbow: Dead connection: e877d6fa-2e44-4587-9971-03b82dd21058
+May 29 07:37:43.272 WARNING: user_right_elbow: Exception caught: minor code(1096024066).
+May 29 07:37:43.272 WARNING: user_right_hand: Dead connection: 87c44bb1-a8af-4513-a040-f3227ab70000
+May 29 07:37:43.272 WARNING: user_right_hand: Exception caught: minor code(1096024066).
+May 29 07:37:43.272 WARNING: user_torso: Dead connection: 1151d980-60c2-4768-8bf9-b20d9b302d69
+May 29 07:37:43.272 WARNING: user_torso: Exception caught: minor code(1096024066).
